@@ -13,10 +13,10 @@ Este projeto permite fazer busca por CPF e visualizar os documentos em um modal.
 
 ##  Como rodar o projeto
 
-### 1️⃣ Clone o repositório
+### Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/hcor/challenge-hcor.git
+cd challenge-hcor
 ```
 Ins
 ## tale as dependências
