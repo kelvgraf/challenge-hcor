@@ -7,7 +7,7 @@ Este projeto permite fazer busca por CPF e visualizar os documentos em um modal.
 ##  Tecnologias utilizadas
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com/)/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ---
 
